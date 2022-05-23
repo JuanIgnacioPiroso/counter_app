@@ -1,10 +1,10 @@
-# my_app
+# Counter_App
 
-A new Flutter project.
+Mi primer aplicacion con Flutter.
 
-## Getting Started
+## Resumen
 
-This project is a starting point for a Flutter application.
+Se basa en una pantalla la cual muestra el numero de clicks que uno hace mediante un boton. Ademas, cuenta con otros dos botones, uno para decrementar el numero de clicks que se ve en la pantalla y otro para reiniciar el contador haciendolo volver a 0.
 
 A few resources to get you started if this is your first Flutter project:
 
